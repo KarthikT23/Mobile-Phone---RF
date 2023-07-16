@@ -1,0 +1,3 @@
+It is found near the Antenna Switch in the Network Section on the Motherboard of a Mobile Phone or Smartphone. 
+It is also called Power Amplifier and Band Pass Filter. 
+It filters and amplifies network frequency and selects the home network.
