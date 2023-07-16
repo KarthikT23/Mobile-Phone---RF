@@ -1,0 +1,2 @@
+Mutual coupling is the electromagnetic interaction between the antenna elements in an array. 
+The current developed in each antenna element of an array depends on their own excitation and also on the contributions from adjacent antenna elements.
