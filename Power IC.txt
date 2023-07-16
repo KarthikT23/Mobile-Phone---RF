@@ -1,0 +1,2 @@
+The power IC is an important micro-chip found in the power section of all mobile phones. 
+The power integrated circuit is the component electronic chip that distributes required value or measure of current voltage to all other parts of the mobile phone
