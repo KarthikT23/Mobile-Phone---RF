@@ -1,0 +1,2 @@
+A power amplifier is an electronic amplifier designed to increase the magnitude of power of a given input signal. 
+The power of the input signal is increased to a level high enough to drive loads of output devices like speakers, headphones, RF transmitters etc.
