@@ -1,0 +1,4 @@
+The transmit voltage-controlled oscillator is a capacitive three-point oscillation circuit that controls the output frequency by voltage. 
+It is integrated into a small circuit board at the time of manufacture and leads to five pins: power supply pin, ground pin, output pin, control pin, 900M/1800M band switching pin.
+When there is a suitable working voltage, it oscillates to generate the corresponding frequency signal. 
+It converts the transmitting IF signal modulated by the IF internal modulator into the 890M-915M (GSM) frequency signal that can be received by the base station.
