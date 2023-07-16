@@ -1,0 +1,4 @@
+An antenna is a specialized transducer that converts radio-frequency (RF) fields into alternating current (AC) or vice-versa.
+There are two basic types: the receiving antenna, which intercepts RF energy and delivers AC to electronic equipment, and the transmitting antenna, which is fed with AC from electronic equipment and generates an RF field.
+Older phones used external antennas while most current phones use an internal antenna. 
+The size and shape of the antenna is designed according to the type of radio waves being used.
