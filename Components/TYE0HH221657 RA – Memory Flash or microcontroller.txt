@@ -1,0 +1,2 @@
+Flash memory, also known as flash storage, is a type of nonvolatile memory that erases data in units called blocks and rewrites data at the byte level. 
+Flash memory is widely used for storage and data transfer in consumer devices, enterprise systems and industrial applications.
