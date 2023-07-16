@@ -1,0 +1,1 @@
+The Signal Processing at RF (SPAR) program aims to mitigate both externally generated interfering signals (from adversaries seeking to jam signals, for example) and self-generated interfering signals (from transmitters within a shared network or RF systems on a common platform, for example) of known and unknown
