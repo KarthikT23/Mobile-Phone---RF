@@ -1,0 +1,4 @@
+It is found in the Network Section of a mobile phone / smartphone (Android and iPhone) and is made up of metal and non-metal. 
+In GSM sets it is found in white color and in CDMA sets it is found in golden metal. 
+It searches network and passes forward after tuning. 
+Faulty antenna switch results in no network in the phone
