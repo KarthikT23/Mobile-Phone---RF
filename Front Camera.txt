@@ -1,0 +1,2 @@
+A camera that is on the front of the phone, facing the user, or on the same surface as the main display. 
+This enables two-way video calls (such as Apple FaceTime) and video conferencing.
