@@ -1,0 +1,3 @@
+An antenna connector is a radio frequency connector that is located at the termination of an antenna. 
+Its attachment to the antenna provides a conduit for the transmission of radio frequency signals with signal loss, discontinuity, and impedance mismatches kept to a strict minimum.
+An antenna connector should maintain the electrical conditions for the transmitted current to travel under shielded conditions to an attached antenna cable, circuit board, or radio.
