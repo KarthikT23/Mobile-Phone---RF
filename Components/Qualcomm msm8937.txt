@@ -1,0 +1,2 @@
+The Qualcomm Snapdragon 430 (SD430) is a lower mainstream SoC for (Android based) smartphones and tablets. 
+Contrary to the Snapdragon 630, it is still manufactured in a 28-nm process and also consists of an octa-core CPU part with ARM Cortex-A53 cores.
