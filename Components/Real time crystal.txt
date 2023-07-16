@@ -1,0 +1,3 @@
+Crystal is the common term used in electronics for the frequency-determining component, a wafer of quartz crystal or ceramic with electrodes connected to it. 
+A more accurate term for it is piezoelectric resonator. 
+Crystals are also used in other types of electronic circuits, such as crystal filters.
